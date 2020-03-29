@@ -1,0 +1,120 @@
+
+body {color: #40514E;
+      margin: 0;
+      text-align: center;
+      font-family: 'Merriweather', serif;}
+
+h1 {margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    color: #66BFBF;}
+
+h2 {font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+  padding-bottom: 10px;}
+
+h3 {font-family: 'Montserrat', sans-serif;
+    color: #11999E;}
+
+p {line-height: 2;}
+
+hr {border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;}
+
+a {color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;}
+
+a:hover {color: #EAF6F6;}
+
+.footer-link {color: #11999E;}
+
+.student {font-weight: normal;}
+
+.top-container {background-color: #ffd3b6;
+                position: relative;
+                padding-top: 100px}
+
+.stu {text-decoration: underline;}
+.intro {width: 60%;
+        margin: auto;}
+
+.contact-message {width: 40%;
+                  margin: 40px auto 60px;}
+
+.copyright {color: #ff7272;
+            font-size: .75rem;
+            padding: 20px 0;}
+
+img { position: relative;}
+
+
+.top-cloud {position: absolute;
+            right: 300px;
+            top: 40px;}
+
+.bottom-cloud {position: absolute;
+               left: 250px;
+               bottom: 300px;}
+
+
+.comp {width: 25%;
+      float: left;
+      margin: 0 30px 0 0;}
+
+.art {width: 25%;
+      float: right;
+      border-radius: 50%;
+      margin: 0 0 0 30px;}
+
+.skill-row {width: 50%;
+            margin: 100px auto 100px auto;
+            text-align: center;}
+
+.s1 {text-align: left;}
+.s2 {text-align: left;}
+
+.middle-container {margin: 100px 0;}
+
+.bottom-container {background-color: #ffd3b6;
+                  padding: 50px 0 20px;}
+
+
+
+.btn {
+
+font-family: 'Montserrat', sans-serif;
+
+text-decoration: none;
+
+font-size: 20px;
+
+text-align: center;
+
+vertical-align: middle;
+
+cursor: pointer;
+
+border-radius: 8px;
+
+background: linear-gradient(#66BFBF, #11999E);
+
+color: #ffffff;
+
+padding: 10px 20px 10px 20px;
+
+}
+
+
+
+.btn:hover {
+
+background: linear-gradient(#30e3cb,#2bc4ad)
+
+}
