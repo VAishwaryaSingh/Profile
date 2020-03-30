@@ -8,11 +8,11 @@ h1 {margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
     line-height: 2;
-    color: #66BFBF;}
+    color: #4d4c7d;}
 
 h2 {font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
-    color: #66BFBF;
+    color: #3b6978;
     font-weight: normal;
   padding-bottom: 10px;}
 
@@ -37,7 +37,7 @@ a:hover {color: #EAF6F6;}
 
 .student {font-weight: normal;}
 
-.top-container {background-color: #ffd3b6;
+.top-container {background-color: #aacfcf;
                 position: relative;
                 padding-top: 100px}
 
@@ -82,7 +82,7 @@ img { position: relative;}
 
 .middle-container {margin: 100px 0;}
 
-.bottom-container {background-color: #ffd3b6;
+.bottom-container {background-color: #aacfcf;
                   padding: 50px 0 20px;}
 
 
